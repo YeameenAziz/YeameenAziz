@@ -42,7 +42,7 @@
 
 ## ✨ A bit of me
 
-## I am currently at the early stage of my journey in software development, continuously learning and exploring new technologies. While I am still building my foundations, I remain highly motivated and committed to improving my skills every day with the goal of reaching the next level in the near future.
+## Actively building practical full-stack applications and expanding expertise in backend systems, scalable web applications, and modern software development technologies through hands-on projects and continuous learning.
 
 ### 🎮 Outside of Tech
 
