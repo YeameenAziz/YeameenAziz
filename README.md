@@ -2,8 +2,7 @@
 
 
 ### 🎯About Me
-**Recent graduated in Computer Science & Engineering with foundational knowledge of full‑stack web development, familiar with both frontend concepts and backend structures along with the Machine Learning Basics.**  
-**Passionate about front‑end development with aspiration to become a comprehensive full stack developer.**
+**Computer Science & Engineering graduate with hands-on experience in frontend and full-stack web development using React.js, Next.js, JavaScript (ES6+), TypeScript, and modern web technologies. Skilled in building responsive and user-friendly web applications, integrating RESTful APIs, and implementing authentication and role-based access control systems. Experienced in collaborative development environments through internship exposure involving Agile/Scrum practices, project documentation, and cross-functional team coordination. Strong interest in scalable web applications, modern frontend development, and software engineering best practices.**
 
 ### 💡Technology
 ### 💻 Tech Stack
